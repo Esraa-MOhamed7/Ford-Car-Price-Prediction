@@ -39,10 +39,4 @@ Trained and compared multiple regression models:
 ### 6. Reproducibility & Documentation 
 - Saved cleaned data and trained models
 - Structured folders for clarity and reuse
-- Documented all steps in both Arabic and English
-
----
-## 📫 Connect with me
- - LinkedIn: [Esraa Mohamed](https://www.linkedin.com/in/esraa-mohamed-481545357?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BL%2Fgh6oLwQR28aZy3roTPtg%3D%3D)
- - Kaggle:   [Esraa Mohamed](https://www.kaggle.com/esraamoh7med)
 
